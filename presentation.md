@@ -434,7 +434,9 @@ $ k6 run {jsファイル}
 
 **Amazon CloudWatch**
 
+.center[
 <img src="image/aws_cloudwatch.webp" width="1000px" height="410px">
+]
 
 .small[<span style="color:gray;">※ 公式引用</span>]
 
@@ -446,7 +448,9 @@ URL: https://grafana.com/
 
 --
 
-<img src="image/grafana2.png" width="1150px">
+.center[
+<img src="image/grafana1.png" width="1050px" height="480">
+]
 
 ---
 
